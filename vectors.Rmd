@@ -67,5 +67,8 @@ glimpse(penguins)
 #git add -A
 #git commit -m "commit through terminal"
 #git push
+
+#git status
 ```
+
 
