@@ -59,6 +59,13 @@ my_matrix
 
 glimpse(penguins)
 
+```
 
+```{r}
+#Pushing to Github through terminal 
+
+#git add -A
+#git commit -m "commit through terminal"
+#git push
 ```
 
